@@ -127,6 +127,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [thi.ng](http://thi.ng/)
 [Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
 - [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+- [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
+- [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
+- [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ### Visual Programming Languages
 
@@ -151,6 +154,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [TidalCycles](https://tidalcycles.org/) - Domain specific language for live coding of pattern.
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
+- [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
 
 ### Web Programming • Libraries
 
@@ -184,6 +188,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Resolume](https://resolume.com/) [Mac, Win] - Mixing of digital video and effects in a realtime.
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac] - VJ software designed for realtime HD video mixing and compositing with a modular user interface.
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+- [Millumin](https://www.millumin.com/v3/index.php) [Mac] - A software to create and perform interactive audiovisual shows.
+- [Smode](https://smode.fr/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
+- [Veejay](http://veejayhq.net/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
+
 
 ### Online
 
@@ -215,12 +223,13 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Leap Motion](https://www.leapmotion.com/) - Sensor device that supports hand and finger motions as input.
 - [AxiDraw](https://www.axidraw.com/) - Simple, modern, and precise pen plotter.
 - [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
+- [Teensy](https://www.pjrc.com/teensy/) - USB-based microcontroller development system.
 
 ### Other
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
 - [F3](http://www.syedrezaali.com/f3-mac-app/) [Mac] - Powerful 3D design app that enables you to live code 3D form.
-- [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) [Mac]- App to live code GLSL graphics.
+- [Fragment](https://github.com/rezaali/fragment) [Mac]- App to live code GLSL graphics.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
@@ -403,6 +412,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [Data Stories](http://datastori.es/) - Podcast on data visualization.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
+- [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) - A community of front-end developers who build collaborative creative coding projects on CodePen.
 
 
 ## Math
@@ -497,7 +507,11 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 - [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
-
+  
+## Museums • Galleries
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
+- [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
+- [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
 
 ## Schools • Workshops
 
